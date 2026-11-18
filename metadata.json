@@ -1,0 +1,6 @@
+{
+  "name": "AKYVA – AI Super Communication & Social Platform",
+  "description": "Connect. Communicate. Create. Grow. Real-time messaging, 24h Status Stories, WebRTC video calling, Moments social feed, Creator Studio, and Gemini AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
